@@ -1,1 +1,1 @@
-# apnaCollege
+# apnaColleges
